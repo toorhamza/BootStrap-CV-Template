@@ -1,2 +1,3 @@
-# cv-template-bootstrap
-A CV theme made with bootstrap.
+# Curriculum Vitae (CV) template made using Bootstrap
+
+A CV theme made using bootstrap only.
